@@ -1,6 +1,5 @@
-
 # Created by https://www.gitignore.io/api/node
-
+variables.env
 ### Node ###
 # Logs
 logs
